@@ -1,3 +1,3 @@
 ## Démonstration 🎥  
 
-Demo.gif
+![Demo GIF](Demo.gif)
