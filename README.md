@@ -1,3 +1,3 @@
 ## Démonstration 🎥  
 
-[Regarder la vidéo](Demo.gif)
+Demo.gif
